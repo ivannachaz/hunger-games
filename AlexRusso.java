@@ -1,4 +1,6 @@
-class AlexRusso 
+
+class AlexRusso extends Story
+
 {
     
 }

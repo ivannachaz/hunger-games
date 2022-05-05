@@ -1,8 +1,5 @@
 
-class McLovin 
+class McLovin extends Story
 {
-
-
-
-
+    
 }

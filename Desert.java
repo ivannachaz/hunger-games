@@ -17,7 +17,7 @@ class Desert extends Page
         "\"Coming here was a bad idea. I'm so thirsty.\""
         );
         
-        story.tribute.isThirsty = true;
+        
     }
 
 }
