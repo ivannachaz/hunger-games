@@ -9,7 +9,7 @@ class Story
     int currentPageNumber;
 
     //Characters
-    Tribute tribute;
+    
 
     // Containers for pages and characters
     ArrayList<Page> book = new ArrayList<Page>();
@@ -25,9 +25,7 @@ class Story
         book.add(desert);
 
         // Set up characters and give each character a reference to this story
-        tribute = new Tribute(this);
-
-        characters.add(tribute);
+        
 
         currentPageNumber = 0;
     }
