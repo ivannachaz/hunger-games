@@ -1,0 +1,4 @@
+class EdwardCullen extends Story
+{
+
+}

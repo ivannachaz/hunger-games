@@ -1,5 +1,4 @@
-class PenelopeGarcia
+class PenelopeGarcia extends Story
 {
-
-
+    
 }

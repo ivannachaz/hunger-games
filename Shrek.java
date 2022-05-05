@@ -1,4 +1,4 @@
-class Shrek
+class Shrek extends Story
 {
     
 }

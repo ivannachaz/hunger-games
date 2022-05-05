@@ -1,5 +1,4 @@
-class BillyRay
+class BillyRay extends Story
 {
-
 
 }
