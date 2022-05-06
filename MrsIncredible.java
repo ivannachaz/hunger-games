@@ -1,3 +1,4 @@
+
 class MrsIncredible extends Character
 {
     MrsIncredible(Story story)
@@ -6,4 +7,5 @@ class MrsIncredible extends Character
         this.name = "";
         this.isAlive = true;
     }
+
 }
