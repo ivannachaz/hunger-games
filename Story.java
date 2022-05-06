@@ -9,7 +9,6 @@ class Story
     int currentPageNumber;
 
     //Characters
-    
 
     // Containers for pages and characters
     ArrayList<Page> book = new ArrayList<Page>();
@@ -25,7 +24,6 @@ class Story
         book.add(desert);
 
         // Set up characters and give each character a reference to this story
-        
 
         currentPageNumber = 0;
     }
@@ -54,10 +52,20 @@ class Story
     void turnPage()
     {
         // Change the page number. Prevent turning past the end of the book!
+        if (currentPageNumber < book.size())
+
+        {
+            currentPageNumber++;
+        }
     }
 
     void turnBackPage()
     {
         // Change the page number. Prevent turning past the beginning of the book!
+        if (currentPageNumber > 0)
+
+        {
+            currentPageNumber--;
+        }
     }
 }

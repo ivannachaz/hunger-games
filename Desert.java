@@ -5,7 +5,7 @@ class Desert extends Page
     Desert(Story story)
     {
         super(story);
-        image = new Image("desert.jpg");
+        image = new Image("Shrek Profile.jpg");
 
     }
 
