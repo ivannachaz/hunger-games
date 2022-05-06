@@ -17,7 +17,7 @@ class Jungle extends Page
         System.out.println(
         "The Jungle\n\n" +
         " The Tributes have been dropped in an uncharted jungle./n" +
-        " Alex Russo, Shrek, Mrs.Incredible, Edward Cullen,Penelope Garcia, McLovin', Bill Ray Cyrus anxiously wait as the timer ticks down" 
+        " Alex Russo, Shrek, Mrs.Incredible, Edward Cullen,Penelope Garcia, McLovin', Bill Ray Cyrus anxiously wait as the timer ticks down"  
         
         );
     }
