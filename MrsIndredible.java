@@ -1,4 +1,0 @@
-class MrsIndredible extends Story
-{
-    
-}
