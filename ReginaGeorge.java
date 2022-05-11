@@ -1,7 +1,7 @@
 
-class MrsIncredible extends Character
+class ReginaGeorge extends Character
 {
-    MrsIncredible(Story story)
+    ReginaGeorge(Story story)
     {
         super(story);
         this.name = "";
