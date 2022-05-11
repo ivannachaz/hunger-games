@@ -4,15 +4,7 @@ class Story
 {
     //Pages
     Jungle jungle; 
-    Page1 page1;
-    Page2 page2;
-    Page3 page3;
-    Page4 page4;
-    Page5 page5;
-    Page6 page6;
-    Page7 page7;
-    Page8 page8;
-    Page9 page9;
+    Desert desert;
 
     int currentPageNumber;
 
@@ -26,27 +18,10 @@ class Story
     {
         // Set up pages and give each page a reference to this story
         jungle = new Jungle(this);
-        page1 = new Page1(this);
-        page2 = new Page2(this);
-        page3 = new Page3(this);
-        page4 = new Page4(this);
-        page5 = new Page5(this);
-        page6 = new Page6(this);
-        page7 = new Page7(this);
-        page8 = new Page8(this);
-        page9 = new Page9(this);
+        desert = new Desert(this);
 
         book.add(jungle);
-        book.add(page1);
-        book.add(page2);
-        book.add(page3);
-        book.add(page4);
-        book.add(page5);
-        book.add(page6);
-        book.add(page7);
-        book.add(page8);
-        book.add(page9);
-        
+        book.add(desert);
 
         // Set up characters and give each character a reference to this story
 

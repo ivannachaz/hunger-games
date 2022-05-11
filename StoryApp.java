@@ -27,16 +27,7 @@ public class StoryApp extends Application
     {
         //Set up the game data
         story = new Story();
-        /*
-        String path = getClass().getResource("sounds/").toExternalForm();
-        sound = new Media(path + "intro.mp3");
-        music = new MediaPlayer(sound);
-        music.play();
-        import javafx.scene.media.Media;
-        import javafx.scene.media.MediaPlayer;
-        import java.io.File;
-        */
-        
+
         //Set up an image container
         view = new ImageView();
         view.setFitHeight(300);
