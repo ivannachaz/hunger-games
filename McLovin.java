@@ -1,4 +1,3 @@
-
 class McLovin extends Character
 {
     McLovin(Story story)
