@@ -13,6 +13,7 @@ class Page2 extends Page
     void read()
     {
         System.out.println("A horse is found by THE Billy Ray.");
+        
     } 
     
 }
