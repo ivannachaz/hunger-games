@@ -1,6 +1,4 @@
-
 class AlexRusso extends Character
-
 {
     AlexRusso(Story story)
     {

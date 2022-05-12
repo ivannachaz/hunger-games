@@ -1,9 +1,11 @@
-class McLovin extends Character
+
+class ReginaGeorge extends Character
 {
-    McLovin(Story story)
+    ReginaGeorge(Story story)
     {
         super(story);
         this.name = "";
         this.isAlive = true;
     }
+
 }

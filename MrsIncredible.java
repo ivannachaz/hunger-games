@@ -1,4 +1,3 @@
-
 class MrsIncredible extends Character
 {
     MrsIncredible(Story story)
