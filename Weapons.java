@@ -16,10 +16,10 @@ class Weapons extends Page
         "Shrek find his onion, he goes to find his home, the swamp. \n\n" +
 
 
-        "Robby Ray finds his horse, he gallops away into the jungle. \n\n" +
+        "Robby Ray finds his horse and he gallops away into the jungle. \n\n" +
 
 
-        "Alex Russo finds her wand, she tries to run but then decides it much. So, instead she will take a nap. \n\n" +
+        "Alex Russo after finding her wand, she tries to run but then decides it much. So, instead she will take a nap. \n\n" +
 
 
         "McLovin finds his ID, and wished he went with Muhammad. He runs away wailing in search of shelter. \n\n" +
@@ -27,10 +27,10 @@ class Weapons extends Page
 
         "Edward needs no item, as he is speed. He dashes towards the trees. \n\n" +
         
-        "Penelope discovers chocolate thunder, her love Derek Morgan. They ran off and were never to be seen. We still wonder where they went. \n\n" +
+        "Penelope discovers her chocolate thunder, her love Derek Morgan. They ran off and were never to be seen. We still wonder where they went. \n\n" +
 
 
-        "Regina finds her burnbook, and proceeds to insult everybody. But unfortunately while turning the page she gets a paper cut. BLOOD IS SPILT. Edward smells from meters away and snatchesup Regina and her louis, and she is devoured. That wasnt very vegetarian of Edward \n\n"
+        "Regina finds her burnbook, and proceeds to insult everybody. But unfortunately while turning the page she gets a paper cut. BLOOD IS SPILT. Edward smells from meters away and snatchesup Regina and her Louis Vuitton, and she is devoured. That wasnt very vegetarian of Edward \n\n"
 
 
         );
