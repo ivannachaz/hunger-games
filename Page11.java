@@ -18,7 +18,24 @@ class Page11 extends Page
 
        "Edward inches closer and closer. Until finally he gets face to face with Mclovin. \n\n" +
  
-       "Mister Vampire Please dont kill me. Please I promise I dont taste good. \n\n"
+       "Mister Vampire Please dont kill me. Please I promise I dont taste good. \n\n" + 
+       "McLovin covers his face in fear. Suddenly he remembers his ID is in his pocket. He grabs the ID and throws it at his face. It hits Edward in the neck, slicing through his neck. Instantly killing him. \n\n" +
+
+
+       "Mclovin is in shock. Did he just kill  a vampire? \n\n" +
+        "But most importantly, Did he just win ?\n\n" +
+
+       "Yes, he did. \n\n" +
+
+
+       "Mclovin, congratulations you have completed your task. You are the winner. \n\n" +
+
+       "Omg, omg, no way. How. Me. I won. \n\n"+
+
+       "Mclovin is flown to the Victors Village. Where he lives amongst the winners. He lives in luxury. But he hopes to move to Hawaii once he turns 21 with his best friends. \n\n" 
+
+
+
        );
     }
 }

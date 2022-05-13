@@ -5,7 +5,7 @@ class Page9 extends Page
     Page9(Story story)
     {
         super(story);
-        image = new Image("edfight.jp");
+        image = new Image("Edfight.jpg");
 
     }
 
