@@ -13,7 +13,7 @@ class Page3 extends Page
     {
         System.out.println(
         "In the thickest part of the jungle, lands Alex Russo. The sassy witch from New York is definitely out of her element. \n\n" +
-        "Oh, come on, not more running. Wheres my wand? (Alex looks mindlessly into her empty pockets.) Great Dad is going to kill me, ugh. Wheres Justin when you actually need him. They better not make me run or actually try to kill them. ( Sits down  when shes suppose to run and begins pensively inspecting her fresh manicure..) \n\n"
+        "Oh, come on, not more running. Great Dad is going to kill me, ugh. Wheres Justin when you actually need him. They better not make me run or actually try to kill them. ( Sits down  when shes suppose to run and begins pensively inspecting her fresh manicure..) \n\n"
 
 
         

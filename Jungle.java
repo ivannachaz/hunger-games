@@ -16,10 +16,9 @@ class Jungle extends Page
 
 
 
-        " Seven lucky Tributes have been dropped in an uncharted jungle. Only one can regin victorius.\n\n" +
+        " Seven unlucky Tributes have been dropped in an uncharted jungle. Only one can regin victorius.\n\n" +
 
-        " The Tributes have been dropped in an uncharted jungle.\n\n" +
-
+        
         " Alex Russo, Shrek,Regina George, Edward Cullen,Penelope Garcia, McLovin', Bill Ray Cyrus anxiously wait as the timer ticks down. \n\n" +
         " The jungle is so quiet. Everyone can hear each others heartbeat. \n\n" +
         
