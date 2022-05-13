@@ -12,7 +12,9 @@ class Page5 extends Page
     void read()
     {
         System.out.println(
-        
+        "They can see my true skin. The skin of a killer. They stare at my glistening skin as the sun rays hit me perfectly. I hope they know I am not a vegetarian anymore, only for my girl Bella. \n\n" +
+        "(Edward runs at lightning speed only to catch the eye of a flirty Alex, he ignores her.) (Smoldering at the sight of scrawny flesh of skinny McLovin. Averted, he sees a rabbit, yummy.) \n\n"
+
         );
         
         

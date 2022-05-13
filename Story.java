@@ -4,6 +4,7 @@ class Story
 {
     //Pages
     Jungle jungle; 
+    Weapons weapons;
     Page1 page1;
     Page2 page2;
     Page3 page3;
@@ -22,11 +23,13 @@ class Story
     // Containers for pages and characters
     ArrayList<Page> book = new ArrayList<Page>();
     ArrayList<Character> characters = new ArrayList<Character>();
+    
 
     Story()
     {
         // Set up pages and give each page a reference to this story
         jungle = new Jungle(this);
+        weapons= new Weapons(this);
         page1 = new Page1(this);
         page2 = new Page2(this);
         page3 = new Page3(this);
@@ -38,6 +41,7 @@ class Story
         page9 = new Page9(this);
 
         book.add(jungle);
+        book.add(weapons);
         book.add(page1);
         book.add(page2);
         book.add(page3);
