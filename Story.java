@@ -14,6 +14,8 @@ class Story
     Page7 page7;
     Page8 page8;
     Page9 page9;
+    Page10 page10;
+    Page11 page11;
     
 
     int currentPageNumber;
@@ -39,6 +41,8 @@ class Story
         page7 = new Page7(this);
         page8 = new Page8(this);
         page9 = new Page9(this);
+        page10 = new Page10(this);
+        page11 = new Page11(this);
 
         book.add(jungle);
         book.add(weapons);
@@ -51,6 +55,8 @@ class Story
         book.add(page7);
         book.add(page8);
         book.add(page9);
+        book.add(page10);
+        book.add(page11);
 
         // Set up characters and give each character a reference to this story
 
