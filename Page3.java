@@ -5,14 +5,17 @@ class Page3 extends Page
     Page3(Story story)
     {
         super(story);
-        image = new Image("McLovin.jpg");
+        image = new Image("alexprof.jpg");
 
     }
 
     void read()
     {
         System.out.println(
-        "Hello"
+        "In the thickest part of the jungle, lands Alex Russo. The sassy witch from New York is definitely out of her element. \n\n" +
+        "Oh, come on, not more running. Wheres my wand? (Alex looks mindlessly into her empty pockets.) Great Dad is going to kill me, ugh. Wheres Justin when you actually need him. They better not make me run or actually try to kill them. ( Sits down  when shes suppose to run and begins pensively inspecting her fresh manicure..) \n\n"
+
+
         
         );
         
